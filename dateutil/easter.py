@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-This module offers a generic easter computing method for any given year, using
-Western, Orthodox or Julian algorithms.
-"""
+
 
 import datetime
 
